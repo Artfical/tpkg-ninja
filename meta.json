@@ -1,0 +1,23 @@
+{
+ "name": "ninja",
+ "version": "1.12.1",
+ "license": "Apache-2.0",
+ "homepage": "",
+ "licenses": [
+  "LICENSE",
+  "NOTICE.txt"
+ ],
+ "sources": [
+  "ninja-linux.zip"
+ ],
+ "desc": "Ninja 1.12.1, the small fast build tool",
+ "file": "ninja-1.12.1.tpkg",
+ "size": 126684,
+ "sha256": "eb79b204457b252ce858c7b90487ff490ed9eb3c9007ced66b90b52f1cb4afec",
+ "unpacked": 273768,
+ "min_build": 619,
+ "depends": [],
+ "commands": {
+  "ninja": "bin/ninja"
+ }
+}

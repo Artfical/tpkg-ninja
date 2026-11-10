@@ -1,0 +1,5 @@
+ninja 1.12.1 for tOS
+===============
+
+Built from ninja-linux.zip (beside this package) on a Linux host with prefix /system/pkg/ninja, using the official release binary of the project (unmodified). License: Apache-2.0 (LICENSE).
+glibc: dynamically linked against the GNU C Library, which tOS's base system carries.
